@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a729f9a-765f-4d85-8f31-f7bcd94e491a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java17Test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewKeywordVar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSwitch.java" afterDir="false" />
+    <list default="true" id="7a729f9a-765f-4d85-8f31-f7bcd94e491a" name="Changes" comment="자바 17">
+      <change afterPath="$PROJECT_DIR$/src/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NewSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NewSwitch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +23,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="35f56476-2277-428f-8200-5269973129a9" />
+        <option name="url" value="https://github.com/SeongukCho/Java17Test.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -54,7 +60,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NewMethod">
+  <component name="RunManager" selected="Application.NewSwitch">
     <configuration name="CollectionOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CollectionOf" />
       <module name="Java17Test" />
@@ -76,8 +82,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NewSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewSwitch" />
+      <module name="Java17Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NewSwitch" />
         <item itemvalue="Application.NewMethod" />
         <item itemvalue="Application.NewKeywordVar" />
         <item itemvalue="Application.CollectionOf" />
@@ -92,11 +106,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701306470715</updated>
-      <workItem from="1701306471886" duration="1831000" />
+      <workItem from="1701306471886" duration="2498000" />
     </task>
+    <task id="LOCAL-00001" summary="자바 17">
+      <created>1701308336247</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701308336247</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="자바 17" />
+    <option name="LAST_COMMIT_MESSAGE" value="자바 17" />
   </component>
 </project>

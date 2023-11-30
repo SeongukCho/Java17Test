@@ -25,5 +25,21 @@ public class NewSwitch {
                 System.out.println(randomNames);
             }
         }
+
+        // 결과값을 받을 수 있는 스위치 문법
+        String res = switch (randomNames) {
+            case "이협건" -> {
+                yield (randomNames + " 한국폴리텍대학 서울강서캠퍼스 교수");
+            }
+            case "학생1", "학생2" -> {
+                yield (randomNames + " 한국폴리텍대학 서울강서캠퍼스 학생");
+            }
+            default -> {
+                yield (randomNames + "넌 누구니");
+            }
+        };
+
+        System.out.println("res : " + res);
+
     }
 }
